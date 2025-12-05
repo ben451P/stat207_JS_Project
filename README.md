@@ -10,8 +10,8 @@ This data analysis explores the correlation between the amount of itme spent on 
 Clone the repository.
 
 ```bash
-git clone https://github.com/UIUC-DSC/team-fivecasters
-cd team-fivecasters
+git clone https://github.com/ben451P/stat207_JS_Project
+cd stat207_JS_Project
 ```
 
 After cloning, create a folder named "dataset" and insert it into the root directory. This project will use the EdNet dataset, which can be found for download at the following links.
