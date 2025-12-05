@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Project Structure
 
 ```
-├── dataset # all of the code used for processing
+├── dataset
 │   ├── lectures.csv
 │   └── questions.csv
 │   ├── KT3                              # Main dataset folders
